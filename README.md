@@ -12,7 +12,7 @@ session_start();
 $storage = new Storage($_SESSION);
 ```
 
-### Generate a generator
+### Create a generator
 
 ```php
 $generator = new Generator($storage);
