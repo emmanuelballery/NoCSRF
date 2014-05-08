@@ -50,8 +50,8 @@ class SessionProtection
     /**
      * Test whether a couple intention/value is valid or not
      *
-     * @param $intention
-     * @param $value
+     * @param string $intention Token intention
+     * @param string $value     Token value
      *
      * @return bool
      */
